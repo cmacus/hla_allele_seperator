@@ -18,6 +18,9 @@ P2,1,24,15,27,1,3,7,15,,,,
 P3,1,11,15,52,3,4,5,15,,,,
 ```
 
-The mother (M) and the father's (F) genotypes is followed by all progeny (P1, P2 ...). The program generates a distribution of available haplotypes in the family.
+The mother (M) and the father's (F) genotypes is followed by all progeny (P1, P2 ...). You also have to specify a __mode__, i.e. which loci have been types ('AB','ABC','ABDR','ABCDR'). The program generates a distribution of available haplotypes in the family.
 
-![](hla_allele_family.png)
+![](hla_alleles_family.png)
+
+## TODO
+Identify homozygosity
